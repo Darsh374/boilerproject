@@ -63,5 +63,7 @@ contains a plugin.js doc listing the different methods used
 * line 5-6: **< meta >** : snippets of text that describe the content of the webpage.
 * line 7: **< title >** : title tag used to create titles in a web doc
 * line 8-9: contains two other <meta> tags.
+* line 11-12 & 15-16: **< link >** : defines a link between a web doc and an external source
+* line 19: **< body >**: defines the document's body
 
 
