@@ -57,7 +57,9 @@ contains a plugin.js doc listing the different methods used
 **tile.png**: contains a bigger star icon
 
 #Index.html file
-* line1: **<!DOCTYPE html>**: 
+* line1: **<!DOCTYPE html>**:  tells the browser that this page is written in HTML 5
 * line2: **< html >** tells the browser that this is a html file.
-* line4: **< head >** container for all head elements 
+* line4: **< head >** container for all head elements.
+* line 5-6: **< meta >** : snippets of text that describe the content of the webpage.
+* line 
 
