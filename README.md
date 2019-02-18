@@ -27,3 +27,16 @@
 * **2013**: Edward Snowden, a former CIA employee and National Security Agency (NSA) contractor, reveals that the NSA had in place a monitoring program capable of tapping the communications of thousands of people, including U.S. citizens.
 * **2015**: Instagram, reaches 400 million users, outpacing Twitter, which would go on to reach 316 million users by the middle of the same year.
 * **2016**: Google unveils Google Assistant, a voice-activated personal assistant program, marking the entry of the Internet giant into the "smart" computerized assistant marketplace. Google joins Amazon's Alexa, Siri from Apple, and Cortana from Microsoft.
+
+#Definitions for HTML5 Boilerplate
+* doc- document
+* TOC.md- table of contents file
+* css.md- cascading style sheet, ability to change look of website
+* extend.md- extend and customize HTML5 boilerplate
+* faq.md- frequently asked questions
+* html.md- two types of html pages, index.html and 404.html
+* js.md- javascript
+* misc.md- miscellaneous file
+* usage.md- help create a static site or simple app.
+
+
