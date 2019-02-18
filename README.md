@@ -39,4 +39,5 @@
 * misc.md- miscellaneous file
 * usage.md- help create a static site or simple app.
 
+* <meta charset="utf-8"> means which characters that are written and utf-8 is a character encoding capable of enconding all possible characters in Unicode.
 
