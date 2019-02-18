@@ -66,5 +66,8 @@ contains a plugin.js doc listing the different methods used
 * line 11-12 & 15-16: **< link >** : defines a link between a web doc and an external source
 * line 19: **< body >**: defines the document's body
 * line 25: **< p >** : defines a text paragraph section in the HTML document
+* line 26-37: **< script >**: defines a client-side scripting that includes a js file.
+
+
 
 
