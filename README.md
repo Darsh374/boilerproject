@@ -61,5 +61,7 @@ contains a plugin.js doc listing the different methods used
 * line2: **< html >** tells the browser that this is a html file.
 * line4: **< head >** container for all head elements.
 * line 5-6: **< meta >** : snippets of text that describe the content of the webpage.
-* line 
+* line 7: **< title >** : title tag used to create titles in a web doc
+* line 8-9: contains two other <meta> tags.
+
 
