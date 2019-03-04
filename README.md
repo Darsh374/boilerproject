@@ -51,4 +51,6 @@
 * Branch- manage timelines, especially when multiple people are working on the project. Each repository can have multiple branches.
 * Merge- all commits from the feature branch are added to the base branch in a merge.
 * Merge Conflict- occur when you merge branches that have competing commits, and Git helps you decide which changes to incorporate in the final merge.
+* Fetch- download remote code from a repository's remote URL to your local computer.
+* Remote- a bookmark for a different repository from which you may wish to pull or push code.
 
