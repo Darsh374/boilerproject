@@ -43,4 +43,6 @@
 
 * GIT- is version control system for tracking changes in a source code for software development.
 * GITHUB- is a web-based hosting service for version control using GIT. It gives you distributed version control and source code management functionality of GIT.
-* 
+* Repository- is a folder for your projects and in a repository contains all of your project files and stores each file's revision history.
+* Clone- a GIT repository that you can create a local copy of the code provided by the developer.
+
