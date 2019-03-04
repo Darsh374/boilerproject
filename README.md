@@ -40,6 +40,37 @@
 * usage.md- help create a static site or simple app.
 
 * <meta charset="utf-8"> means which characters that are written and utf-8 is a character encoding capable of enconding all possible characters in Unicode.
+#**"img" folder**
+contains a gitignore file that is empty
+#**"js" folder**
+contains a plugin.js doc listing the different methods used
+#
+**.editorconfig**: contains some variables
+**.gitattributes**: settings for any type of web project.
+**.gitignore**: contains the files ignored by github
+**404.html**: contains the 404 html page document. 
+**browserconfig.xml**: contains icons & logos used in the browserconfig
+**favicon.ico**: contains a star icon
+**humans.txt**: contains a list of contributors to the project.
+**icon.png**: contains another star icon
+**robots.txt**: contains a link to a webpage
+**site.webmanifest**: contains a ref to the icons and a change in background colors
+**tile-wide.png**: contains a star icon
+**tile.png**: contains a bigger star icon
+
+#Index.html file
+* line1: **<!DOCTYPE html>**:  tells the browser that this page is written in HTML 5
+* line2: **< html >** tells the browser that this is a html file.
+* line4: **< head >** container for all head elements.
+* line 5-6: **< meta >** : snippets of text that describe the content of the webpage.
+* line 7: **< title >** : title tag used to create titles in a web doc
+* line 8-9: contains two other <meta> tags.
+* line 11-12 & 15-16: **< link >** : defines a link between a web doc and an external source
+* line 19: **< body >**: defines the document's body
+* line 25: **< p >** : defines a text paragraph section in the HTML document
+* line 26-37: **< script >**: defines a client-side scripting that includes a js file.
+
+
 
 * GIT- is version control system for tracking changes in a source code for software development.
 * GITHUB- is a web-based hosting service for version control using GIT. It gives you distributed version control and source code management functionality of GIT.
