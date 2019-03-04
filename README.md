@@ -41,3 +41,6 @@
 
 * <meta charset="utf-8"> means which characters that are written and utf-8 is a character encoding capable of enconding all possible characters in Unicode.
 
+* GIT- is version control system for tracking changes in a source code for software development.
+* GITHUB- is a web-based hosting service for version control using GIT. It gives you distributed version control and source code management functionality of GIT.
+* 
