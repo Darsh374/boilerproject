@@ -45,4 +45,10 @@
 * GITHUB- is a web-based hosting service for version control using GIT. It gives you distributed version control and source code management functionality of GIT.
 * Repository- is a folder for your projects and in a repository contains all of your project files and stores each file's revision history.
 * Clone- a GIT repository that you can create a local copy of the code provided by the developer.
+* Commit- an individual change to a file that other developers can see comments for.
+* Push- pushes up changes to a remote repo.
+* Pull- the ability for other developers to review changes made to file.
+* Branch- manage timelines, especially when multiple people are working on the project. Each repository can have multiple branches.
+* Merge- all commits from the feature branch are added to the base branch in a merge.
+* Merge Conflict- occur when you merge branches that have competing commits, and Git helps you decide which changes to incorporate in the final merge.
 
